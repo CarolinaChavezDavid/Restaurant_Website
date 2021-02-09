@@ -1,0 +1,53 @@
+body{
+    font-size: 16px;
+    color: #fff;
+    background: linear-gradient(45deg, rgba(255,27,0,1) , rgba(251,75,2,1));
+    font-family: 'Zilla Slab', serif;
+}
+
+.header-rest{
+    background-color: #bfbbbb 70%;
+    opacity: 0.6;
+    height: 80px;
+    color:#252233;
+   
+}
+
+#nombre{
+    font-family: 'Zilla Slab', serif;
+    font-weight: bold;
+    top: 50%;
+}
+
+#kosher{
+    left: -70%;
+}
+
+.logo{
+    position: relative;
+    opacity: 100%;
+}
+#kosher{
+    left: -70%;
+}
+
+#jumbotron{
+    width: 1110px;
+    height: 755.59px;
+    
+}
+
+
+
+
+
+
+
+/******** Large devices ********/
+@media (min-width:1200px){
+    .jumbotron{
+      
+        
+        
+    }
+}
